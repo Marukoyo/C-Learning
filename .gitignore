@@ -1,14 +1,53 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Prerequisites
+*.d
 
-/.vs/C-Learning/v17/Preview/Browse.VC.db
-/.vs/C-Learning/FileContentIndex/27d1b61b-9a7e-49e0-ac74-d36f18649480.vsidx
-/.vs/C-Learning/FileContentIndex/c3022e51-7bc0-4242-b15f-7118e8269abb.vsidx
-/.vs/C-Learning/v17/Preview/Browse.VC.db-wal
-/.vs/C-Learning/v17/Preview/Browse.VC.db-shm
-/.vs/C-Learning/FileContentIndex/cf4a9757-32f2-4bc5-a8b3-041c850cf39a.vsidx
-/.vs/C-Learning/v17/Preview/Browse.VC.opendb
-/.vs/slnx.sqlite
-/.vs/C-Learning/FileContentIndex/66e37b43-deea-42b4-bae0-66a5f3b1f3de.vsidx
-*.vsidx
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/.vs
