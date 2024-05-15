@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
+#include <stdint.h> /* C standard library header file that defines integer types with specific widths 具有跨平台性※实际开发使用*/
 #include <complex.h>
 
 int main(void) {
@@ -11,6 +11,7 @@ int main(void) {
 	__int8 num1 = 10;
 	printf("Size of __int8 : %zu byte(s)\n", sizeof(num1));
 	// stdint.h is a C standard library header file that defines integer types with specific widths 标准库头文件 指定长度整数类型
+	// ?实际开发使用 跨平台性
 	int16_t myInt16 = 32767;
 	uint16_t myUInt16 = 65535;
 
