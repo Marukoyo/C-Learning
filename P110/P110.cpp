@@ -22,7 +22,7 @@ int main(void)
 		3
 	*/
 
-	uint32_t number;	// 用户输入的数字
+	uint32_t number;	// 用户输入的数字A
 	uint32_t sum_square = 0;	// 平方和的初始化
 
 	puts("请输入一个整数N，我们将计算从1到N的所有整数的平方和！");
