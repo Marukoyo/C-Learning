@@ -32,5 +32,8 @@ int main(void)
 	}
 
 	printf("结果是：%s", isPrime ? "质数" : "合数(不是素数/质数)");
+
+	system("pause");
+	return 0;
 }
 

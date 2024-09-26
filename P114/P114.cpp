@@ -22,6 +22,7 @@ int main(void)
 	uint32_t number;
 	puts("请输入一个数：");
 
-
+	system("pause");
+	return 0;
 }
 
