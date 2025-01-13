@@ -51,5 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 # Personal Configurations
+#帮我忽略所有文件夹下的.vs
 /.vs
+**/.vs/
 **/Debug/
