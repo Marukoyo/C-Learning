@@ -1,0 +1,82 @@
+﻿Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\76573\AppData\Roaming
+CommonProgramFiles = C:\Program Files\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPLUS_InstallRoot = 
+COMPLUS_Version = 
+COMPUTERNAME = CHOMUTEKINODANG
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+GCExpConfigUsedInSession = 3
+HOMEDRIVE = C:
+HOMEPATH = \Users\76573
+IOJS_ORG_MIRROR = https://npm.taobao.org/mirrors/iojs
+JAVA_HOME = C:\Develop\Java\jdk-20
+KMP_BLOCKTIME = 0
+LOCALAPPDATA = C:\Users\76573\AppData\Local
+LOGONSERVER = \\CHOMUTEKINODANG
+MAVEN_HOME = C:\Develop\apache-maven-3.9.4
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NODEJS_ORG_MIRROR = https://npm.taobao.org/mirrors/node
+NODE_PATH = C:\Develop\nodejs\node_global
+NODIST_IOJS_MIRROR = https://npm.taobao.org/mirrors/iojs
+NODIST_NODE_MIRROR = https://npm.taobao.org/mirrors/node
+NUMBER_OF_PROCESSORS = 8
+NVMW_IOJS_ORG_MIRROR = https://npm.taobao.org/mirrors/iojs
+NVMW_NODEJS_ORG_MIRROR = https://npm.taobao.org/mirrors/node
+NVMW_NPM_MIRROR = https://npm.taobao.org/mirrors/npm
+NVM_IOJS_ORG_MIRROR = https://npm.taobao.org/mirrors/iojs
+NVM_NODEJS_ORG_MIRROR = https://npm.taobao.org/mirrors/node
+OMP_WAIT_POLICY = PASSIVE
+OneDrive = C:\Users\76573\Documents\OneDrive
+OneDriveConsumer = C:\Users\76573\Documents\OneDrive
+OS = Windows_NT
+Path = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Develop\Java\jdk-20\bin;C:\Develop\nodejs\;C:\Develop\nodejs\node_global;C:\Develop\Microsoft VS Code\bin;C:\Develop\MySQL\bin;C:\Develop\apache-maven-3.9.4\bin;C:\Develop\Redis\;C:\Develop\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\UtilityTools\ffmpeg-7.1-full_build\bin;C:\Users\76573\AppData\Local\Microsoft\WindowsApps;C:\Develop\mingw64\bin
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\76573\AppData\Local\Microsoft\VisualStudio\17.0_f5bacbc8\devenv.exe.config
+PROCESSOR_ARCHITECTURE = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 9e0a
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+ServiceHubLogSessionKey = C135B3CD
+SESSIONNAME = Console
+SignInWithHomeTenantOnly = False
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\76573\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\76573\AppData\Local\Temp
+USERDOMAIN = CHOMUTEKINODANG
+USERDOMAIN_ROAMINGPROFILE = CHOMUTEKINODANG
+USERNAME = 76573
+USERPROFILE = C:\Users\76573
+VisualStudioDir = C:\Users\76573\Documents\Visual Studio 2022
+VisualStudioEdition = Microsoft Visual Studio Community 2022
+VisualStudioVersion = 17.0
+VSAPPIDDIR = C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VsPerMonitorDpiAwarenessEnabled.3636 = TRUE
+VSSKUEDITION = Community
+VS_Perf_Session_GCHeapCount = 2
+WEBVIEW2_DEFAULT_BACKGROUND_COLOR = ffffff
+windir = C:\WINDOWS
+ZES_ENABLE_SYSMAN = 1
+
+  P205.c
+  Generating code
+  2 of 7 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  P205.vcxproj -> C:\Users\76573\source\repos\Mutekinodango\C-Learning\P205\x64\Release\P205.exe
