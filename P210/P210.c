@@ -1,6 +1,6 @@
 ﻿/*
 	章节学习视频经常变更，所以不再按照视频标题分P记录
-	193.strncpy_s
+	193.strcat_s
 */
 #include <inttypes.h>
 #include <math.h>
@@ -16,23 +16,25 @@ int main(void)
 {
 
 	/**
-		strncpy_s
-		strncpy
+		strcat_s
+		最多追加多少个字符
 	*/
 
-	char dest[20];
-	const char* src = "Hello, World!";
-	size_t max_copy = 10;
-	errno_t result = strncpy_s(dest, sizeof(dest), src, max_copy);
+	char dest[20] = "Hello";
+	const char* src = ", World\n";
 
-	if (result == 0)
-	{
-		printf("Copied String: %s\n", dest);
+	size_t max_append = 7; // 最多追加7个字符
+
+	int result = strncat_s(dest, sizeof(dest), src, max_append);
+
+	if (result == 0) {
+		printf("Concatenate string: %s\n", dest);
 	}
 	else
 	{
-		printf("Failed to copy string\n");
+		printf("Error concatenate string.\n");
 	}
+
 	system("pause");
 	return 0;
 }
