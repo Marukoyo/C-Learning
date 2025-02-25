@@ -1,6 +1,6 @@
 /*
 	章节学习视频经常变更，所以不再按照视频标题分P记录
-	208fopen_s,fgetc,fgets,fclose读取r模式
+	208.fopen_s,fgetc,fgets,fclose读取r模式
 */
 #include <inttypes.h>  
 #include <math.h>  
