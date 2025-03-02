@@ -1,0 +1,8 @@
+#  Game Configuration File
+GraphicsQuality=High
+FullScreen=true
+Resolution=1920x1080
+AudioVolume=80
+EnableShadows=true
+MaxNPCs=50
+Language=English

@@ -1,0 +1,4 @@
+ID: 1
+Temperature: 36.500000
+Name: Frank
+Grade: A
