@@ -1,0 +1,12 @@
+[2023-02-14T12:34:56Z] [INFO] Application startup complete.
+[2023-02-14T12:35:01Z] [ERROR] Failed to open config file for reading:No such file or directory.
+[2023-02-14T12:35:05Z] [INFO] User login successful:username=admin.
+[2023-02-14T12:36:00Z] [WARN] Memory usage exceeds 80% of available memory.
+[2023-02-14T12:36:00Z] [WARN] Memory usage is back to normal levels.
+[2023-02-14T12:37:30Z] [INFO] Data synchronization with server started.
+[2023-02-14T12:37:45Z] [INFO] Data synchronization completed successfully.
+[2023-02-14T12:40:00Z] [ERROR] Failed to send email notification:SMTP server not responding.
+[2023-02-14T12:45:00Z] [INFO] Scheduled backup started.
+[2023-02-14T12:47:00Z] [INFO] Scheduled backup completed successfully.
+[2023-02-14T12:50:00Z] [ERROR] Update log record failed:Record not found.
+[2023-02-14T12:55:00Z] [INFO] Application shutdown initiated.

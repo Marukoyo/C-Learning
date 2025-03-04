@@ -38,7 +38,7 @@ int main(void)
 
 	int numclosed = _fcloseall();
 	printf("Number of files closed by _fcloseall(): %d\n", numclosed);
-	clear_log(log_filename);
+
 	system("pause");
 	return 0;
 }
