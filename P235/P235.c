@@ -32,7 +32,7 @@ int main(void)
 	/**
 		fread
 		fwrite
-		读写二进制
+		读写二进制 
 	*/
 
 	GameSettings settings = { 0.75f, 1920, 1080, 2 };
